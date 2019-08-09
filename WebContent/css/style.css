@@ -1,3 +1,9 @@
+/*
+=============================
+   Coded by Mahmoud Osman
+=============================
+*/
+
 *{
     padding: 0px;
     margin: 0px;
@@ -12,12 +18,17 @@ p {
 
 }
 
+.demo_nav .navbar-inverse {
+    background-color: #4e204e;
+    border-color: #4e204e;
+}
+
 .main-container {
     margin-top: 100px
 }
 .about{
     margin-bottom: 40px;
-   
+    
 }
 .service{
      margin-bottom: 60px;
